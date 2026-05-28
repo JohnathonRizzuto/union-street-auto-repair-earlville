@@ -1,0 +1,10 @@
+{
+  "name": "Union Street Auto Repair",
+  "town": "Earlville IL",
+  "type": "auto repair",
+  "address": "109 E Union St, Earlville, IL 60518",
+  "phone": "8152464200",
+  "checklistComplete": 8,
+  "researchStartedAt": "2026-05-28T05:29:05Z",
+  "stage1FinishedAt": "2026-05-28T05:29:05Z"
+}
